@@ -1,1 +1,1 @@
-# API-class-example
+This is my API class example
